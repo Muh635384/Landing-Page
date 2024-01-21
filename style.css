@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+}
+.wrapper {
+    display: flex;
+}
+
+.header ul {
+    list-style-type: none;
+    
+}
+
+.wrapper2 {
+    padding-top: 200px;
+    display: flex;
+}
